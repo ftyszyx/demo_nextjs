@@ -1,2 +1,1 @@
-# demo_nextjs
-demo_nextjs
+npx shadcn@latest add button
